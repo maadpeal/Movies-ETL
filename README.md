@@ -23,3 +23,11 @@
 
 ## Results
     - We can see the data loaded in their respective postgres tables (image A-1,B-1)
+
+![](https://github.com/maadpeal/Movies-ETL/blob/main/Resources/movies_query.png)
+
+(image A-1)
+
+![](https://github.com/maadpeal/Movies-ETL/blob/main/Resources/ratings_query.png)
+
+(image B-1)
